@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  twitter          : "longdct98"
+  # twitter          : "longdct98"
   linkedin         : "long-dct2706"
   mastodon         : # URL
   medium           : # URL
@@ -129,8 +129,8 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+#  username               : &twitter
 facebook:
   username               :
   app_id                 :
